@@ -7,7 +7,7 @@ import time
 import json
 import wave
 import sys
-
+#Yeah I know this list is surplus to requirements but whatever I'm keeping it here as a backup
 dinnerList = [
 'Makhani Curry',
 'Tacos',
